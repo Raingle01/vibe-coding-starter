@@ -14,6 +14,22 @@
 
 ## 安装方式
 
+### Claude Code 插件安装
+
+```text
+/plugin marketplace add Raingle01/vibe-coding-starter
+/plugin install vibe-coding@raingle-skills
+```
+
+也可以用命令行：
+
+```bash
+claude plugin marketplace add Raingle01/vibe-coding-starter
+claude plugin install vibe-coding@raingle-skills
+```
+
+### Skills CLI 安装
+
 ```bash
 npx skills add https://github.com/Raingle01/vibe-coding-starter --skill vibe-coding-product-launcher
 ```

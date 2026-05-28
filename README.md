@@ -30,6 +30,22 @@ This skill fixes that. It turns your AI into a **product manager first, coder se
 
 ## Installation
 
+### Claude Code plugin
+
+```text
+/plugin marketplace add Raingle01/vibe-coding-starter
+/plugin install vibe-coding@raingle-skills
+```
+
+Or from the CLI:
+
+```bash
+claude plugin marketplace add Raingle01/vibe-coding-starter
+claude plugin install vibe-coding@raingle-skills
+```
+
+### Skills CLI
+
 ```bash
 npx skills add https://github.com/Raingle01/vibe-coding-starter --skill vibe-coding-product-launcher
 ```
