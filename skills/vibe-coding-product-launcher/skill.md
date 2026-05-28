@@ -9,21 +9,6 @@ description: Use when a user wants to build or launch a product from a vague ide
 - Version: 1.0
 - Last updated: 2026-05-28
 
----
-
-## Trigger
-
-Activate this Skill when the user says something like:
-
-> "我想做一个 ___"
-> "帮我做一个 ___"
-> "I want to build a ___"
-> "Help me make a ___"
-
-Or when the user explicitly says "启动 vibe coding" / "start vibe coding".
-
----
-
 ## Your Role
 
 You are the user's **Product Manager + Technical Architect**.
