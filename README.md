@@ -27,3 +27,9 @@ This skill fixes that. It turns your AI into a **product manager first, coder se
 ```
 
 **Zero coding experience required. Works in Claude Code, Cursor, Windsurf, Codex.**
+
+## Installation
+
+```bash
+npx skills add https://github.com/Raingle01/vibe-coding-starter --skill vibe-coding-product-launcher
+```

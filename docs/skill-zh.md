@@ -1,4 +1,9 @@
-# Skill：Vibe Coding 产品启动器
+---
+name: vibe-coding-product-launcher
+description: 帮助零基础用户把模糊的产品想法，通过非技术需求提问，整理成可执行的产品计划和开发文档。
+---
+
+# Vibe Coding 产品启动器
 
 ## 元信息
 

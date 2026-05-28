@@ -1,4 +1,9 @@
-# Skill: Vibe Coding Product Launcher
+---
+name: vibe-coding-product-launcher
+description: Help zero-experience users turn a vague product idea into an executable product plan and development docs by asking plain-language questions before coding.
+---
+
+# Vibe Coding Product Launcher
 
 ## Meta
 

@@ -12,5 +12,8 @@
 - 知道自己想要什么，但不知道怎么开始
 - 已经在用 AI 编程工具，但每次开头都很混乱
 
-## 30 秒安装
+## 安装方式
 
+```bash
+npx skills add https://github.com/Raingle01/vibe-coding-starter --skill vibe-coding-product-launcher
+```
