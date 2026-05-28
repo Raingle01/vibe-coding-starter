@@ -1,7 +1,7 @@
 {
   "name": "vibe-coding-product-launcher",
   "displayName": "Vibe Coding Product Launcher",
-  "description": "Help zero-experience users turn a vague idea into an executable development plan. Ask product questions, never technical ones. Output ready-to-use project-doc.md and dev-guide.md.",
+  "description": "Use when a user wants to build or launch a product from a vague idea, especially when they say \"I want to build...\", \"Help me make...\", \"我想做一个...\", \"帮我做一个...\", or ask to start vibe coding. Ask product questions, never technical ones, then output ready-to-use project-doc.md and dev-guide.md.",
   "category": "Agent workflows",
   "tags": [
     "vibe-coding",

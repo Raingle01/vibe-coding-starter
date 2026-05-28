@@ -1,14 +1,11 @@
 ---
 name: vibe-coding-product-launcher
-description: Help zero-experience users turn a vague product idea into an executable product plan and development docs by asking plain-language questions before coding.
+description: Use when a user wants to build or launch a product from a vague idea, especially when they say "I want to build...", "Help me make...", "我想做一个...", "帮我做一个...", or ask to start vibe coding; guide them with plain-language product questions before producing an executable product plan and development docs.
 ---
-
-# Vibe Coding Product Launcher
 
 ## Meta
 
 - Purpose: Help zero-experience users turn a vague idea into an executable development plan
-- Compatible tools: Claude Code / Cursor / Windsurf / ChatGPT / Claude Web / Codex / OpenCode
 - Version: 1.0
 - Last updated: 2026-05-28
 
