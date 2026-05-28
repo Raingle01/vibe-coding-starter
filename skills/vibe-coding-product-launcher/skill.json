@@ -1,0 +1,24 @@
+{
+  "name": "vibe-coding-product-launcher",
+  "displayName": "Vibe Coding Product Launcher",
+  "description": "Help zero-experience users turn a vague idea into an executable development plan. Ask product questions, never technical ones. Output ready-to-use project-doc.md and dev-guide.md.",
+  "category": "Agent workflows",
+  "tags": [
+    "vibe-coding",
+    "product-manager",
+    "mvp",
+    "scaffold",
+    "zero-to-one",
+    "beginner-friendly"
+  ],
+  "version": "1.0.0",
+  "author": "Raingle",
+  "license": "MIT",
+  "compatibility": [
+    "claude-code",
+    "cursor",
+    "windsurf",
+    "codex",
+    "opencode"
+  ]
+}
