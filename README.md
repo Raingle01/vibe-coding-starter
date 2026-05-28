@@ -34,14 +34,14 @@ This skill fixes that. It turns your AI into a **product manager first, coder se
 
 ```text
 /plugin marketplace add Raingle01/vibe-coding-starter
-/plugin install vibe-coding@raingle-skills
+/plugin install vibe-coding-product-launcher@raingle-skills
 ```
 
 Or from the CLI:
 
 ```bash
 claude plugin marketplace add Raingle01/vibe-coding-starter
-claude plugin install vibe-coding@raingle-skills
+claude plugin install vibe-coding-product-launcher@raingle-skills
 ```
 
 ### Skills CLI

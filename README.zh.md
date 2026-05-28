@@ -18,14 +18,14 @@
 
 ```text
 /plugin marketplace add Raingle01/vibe-coding-starter
-/plugin install vibe-coding@raingle-skills
+/plugin install vibe-coding-product-launcher@raingle-skills
 ```
 
 也可以用命令行：
 
 ```bash
 claude plugin marketplace add Raingle01/vibe-coding-starter
-claude plugin install vibe-coding@raingle-skills
+claude plugin install vibe-coding-product-launcher@raingle-skills
 ```
 
 ### Skills CLI 安装

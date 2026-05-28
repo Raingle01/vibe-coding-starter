@@ -1,24 +1,21 @@
 {
-  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "raingle-skills",
-  "description": "Claude Code plugins and skills by Raingle.",
   "owner": {
-    "name": "Raingle",
-    "url": "https://github.com/Raingle01"
+    "name": "Raingle"
+  },
+  "metadata": {
+    "description": "Claude Code skills by Raingle.",
+    "version": "1.0.0"
   },
   "plugins": [
     {
-      "name": "vibe-coding",
+      "name": "vibe-coding-product-launcher",
       "description": "Helps beginners turn vague product ideas into executable product plans and development docs before coding.",
-      "author": {
-        "name": "Raingle",
-        "url": "https://github.com/Raingle01"
-      },
-      "source": {
-        "source": "github",
-        "repo": "Raingle01/vibe-coding-starter"
-      },
-      "category": "productivity"
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/vibe-coding-product-launcher"
+      ]
     }
   ]
 }
